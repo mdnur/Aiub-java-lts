@@ -1,0 +1,15 @@
+{
+    "cSpell.ignoreWords": [
+        "horstmann"
+    ],
+    "cSpell.words": [
+        "lutz",
+        "rokomari",
+        "schildt",
+        "swaroop"
+    ],
+    "files.associations": {
+        "ostream": "cpp",
+        "typeinfo": "cpp"
+    }
+}
